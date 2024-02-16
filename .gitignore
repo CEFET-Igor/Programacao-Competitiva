@@ -1,0 +1,20 @@
+aquecimento OBI/*
+!aquecimento OBI/*.cpp
+
+aulas/*
+!aulas/*.cpp
+!aulas/combinatoria
+aulas/combinatoria/*
+!aulas/combinatoria/*.cpp
+
+contests 2024/Semana1/*
+contests 2024/Semana2/*
+contests 2024/Semana3/*
+contests 2024/Semana4/*
+
+!contests 2024/Semana1/*.cpp
+!contests 2024/Semana2/*.cpp
+!contests 2024/Semana3/*.cpp
+!contests 2024/Semana4/*.cpp
+
+
