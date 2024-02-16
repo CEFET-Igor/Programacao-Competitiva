@@ -1,3 +1,4 @@
+/* 2472 - Tapetes */
 #include <iostream>
  
 using namespace std;
