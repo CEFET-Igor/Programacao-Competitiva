@@ -1,3 +1,4 @@
+/* 2466 - Sinuca */
 #include <iostream>
 #include <vector>
 
