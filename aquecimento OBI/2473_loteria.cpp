@@ -1,3 +1,4 @@
+/* 2473 - Loteria */
 #include <iostream>
 
 using namespace std;
