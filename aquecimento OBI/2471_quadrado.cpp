@@ -1,3 +1,4 @@
+/* 2471 - Quadrado */
 #include <iostream>
 #include <vector>
 #include <cmath>
