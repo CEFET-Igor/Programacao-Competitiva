@@ -1,3 +1,4 @@
+/* 1929 - Triângulo1 */
 #include <iostream>
 #include <vector>
  
