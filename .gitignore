@@ -16,6 +16,7 @@ contests 2024/Semana4/*
 !contests 2024/Semana2/*.cpp
 !contests 2024/Semana3/*.cpp
 !contests 2024/Semana4/*.cpp
+!contests 2024/Semana4/*pdf
 
 
 .vscode/tasks.json
