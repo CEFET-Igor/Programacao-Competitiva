@@ -14,12 +14,14 @@ contests 2024/Semana1/*
 contests 2024/Semana2/*
 contests 2024/Semana3/*
 contests 2024/Semana4/*
+contests 2024/Semana5/*
 
 !contests 2024/Semana1/*.cpp
 !contests 2024/Semana2/*.cpp
 !contests 2024/Semana3/*.cpp
 !contests 2024/Semana4/*.cpp
 !contests 2024/Semana4/*pdf
+!contests 2024/Semana5/*.cpp
 
 
 .vscode/tasks.json
